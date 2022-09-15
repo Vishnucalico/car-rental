@@ -1,0 +1,22 @@
+@import url('./main-layout.css');
+@import url('./views/customer-view.css');
+@import url('./views/vehicle-view.css');
+@import url('./views/staff-view.css');
+@import url('./views/rental-view.css');
+@import url('./views/vehicle-invoice-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');    html {
+      --lumo-base-color: #c9c9c9;
+      --lumo-body-text-color: hsla(241, 89%, 12%, 0.94);
+      --lumo-primary-text-color: hsl(214, 100%, 12%);
+      --lumo-font-size: 1rem;
+      --lumo-font-size-xxxl: 1.75rem;
+      --lumo-font-size-xxl: 1.375rem;
+      --lumo-font-size-xl: 1.125rem;
+      --lumo-font-size-l: 1rem;
+      --lumo-font-size-m: 0.875rem;
+      --lumo-font-size-s: 0.8125rem;
+      --lumo-font-size-xs: 0.75rem;
+      --lumo-font-size-xxs: 0.6875rem;
+      --lumo-border-radius: calc(var(--lumo-size-m) / 2);
+
+    }
